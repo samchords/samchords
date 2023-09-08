@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @samchords
-- 👀 I’m interested in ...data administration and science.
-- 🌱 I’m currently learning ...R and NodeJS
+- 👀 I’m interested in ...programming and data science.
+- 🌱 I’m currently learning ...python3
 - 💞️ I’m looking to collaborate on ...learning
-- 📫 How to reach me ...twitter dm
+- 📫 How to reach me ...Discord: samchords
 
 <!---
 samchords/samchords is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
